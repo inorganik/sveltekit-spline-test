@@ -23,5 +23,8 @@
 	},
 	"dependencies": {
 		"@splinetool/runtime": "^1.9.58"
-	}
+	},
+  "engines": {
+    "node": "20"
+  }
 }
